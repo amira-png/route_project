@@ -1,0 +1,2 @@
+Adding this file to make sure pushes are only allowed through branches NOT
+master
