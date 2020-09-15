@@ -1,0 +1,1 @@
+cout<<"hello everone , i am sayed";
